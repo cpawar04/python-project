@@ -8,6 +8,7 @@ bike sharing companies have started to realize the importance of data driven dec
 major aspects that can be addressed by data analysis is to predict the demand of bikes on any given day.
 Knowing the demand would help us in creating a better supply and subsequently reduce the gap between
 supply and demand.
+
 Capital bikeshare, established in 2010 and based in Washington DC, is one of the earliest bike sharing
 programs and still growing at a good pace. To predict the demand, we have a dataset which includes
 hourly rental information of bikes from Capital bikeshare with corresponding weather and seasonal
@@ -17,6 +18,7 @@ find the balance between demand and supply to achieve better operational efficie
 conducting this analysis on this dataset is to predict the demand of bikes on any given day and time based
 on the information we have. This predicted demand can be used to adjust our supply accordingly and
 achieve lower maintenance cost and maximize the profit.
+
 We did a series of analysis to find the best fit model. First, distributions of bike rental counts vs. various
 variables (season, month, hour, weather etc.) have been plotted to find how demand changes under
 different conditions. Second, OLS regression analysis has been conducted to find the best fit model to
